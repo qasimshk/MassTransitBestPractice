@@ -1,0 +1,16 @@
+D:\Programming\StudentApi\CQRS\Notification.Service\bin\Debug\netcoreapp2.2\Notification.Service.deps.json
+D:\Programming\StudentApi\CQRS\Notification.Service\bin\Debug\netcoreapp2.2\Notification.Service.runtimeconfig.json
+D:\Programming\StudentApi\CQRS\Notification.Service\bin\Debug\netcoreapp2.2\Notification.Service.runtimeconfig.dev.json
+D:\Programming\StudentApi\CQRS\Notification.Service\bin\Debug\netcoreapp2.2\Notification.Service.dll
+D:\Programming\StudentApi\CQRS\Notification.Service\bin\Debug\netcoreapp2.2\Notification.Service.pdb
+D:\Programming\StudentApi\CQRS\Notification.Service\bin\Debug\netcoreapp2.2\CQRS.Business.dll
+D:\Programming\StudentApi\CQRS\Notification.Service\bin\Debug\netcoreapp2.2\CQRS.Models.dll
+D:\Programming\StudentApi\CQRS\Notification.Service\bin\Debug\netcoreapp2.2\CQRS.Business.pdb
+D:\Programming\StudentApi\CQRS\Notification.Service\bin\Debug\netcoreapp2.2\CQRS.Models.pdb
+D:\Programming\StudentApi\CQRS\Notification.Service\obj\Debug\netcoreapp2.2\Notification.Service.csprojAssemblyReference.cache
+D:\Programming\StudentApi\CQRS\Notification.Service\obj\Debug\netcoreapp2.2\Notification.Service.csproj.CoreCompileInputs.cache
+D:\Programming\StudentApi\CQRS\Notification.Service\obj\Debug\netcoreapp2.2\Notification.Service.AssemblyInfoInputs.cache
+D:\Programming\StudentApi\CQRS\Notification.Service\obj\Debug\netcoreapp2.2\Notification.Service.AssemblyInfo.cs
+D:\Programming\StudentApi\CQRS\Notification.Service\obj\Debug\netcoreapp2.2\Notification.Service.csproj.CopyComplete
+D:\Programming\StudentApi\CQRS\Notification.Service\obj\Debug\netcoreapp2.2\Notification.Service.dll
+D:\Programming\StudentApi\CQRS\Notification.Service\obj\Debug\netcoreapp2.2\Notification.Service.pdb
